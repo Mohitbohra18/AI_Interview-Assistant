@@ -1,9 +1,9 @@
-# 🤖 AI Interview Coach
+#  AI Interview Coach
 
 > **B.Tech Final Year Major Project**
 > Department of Computer Science & Engineering
 > Graphic Era Hill University, Dehradun
-> Under the Guidance of **Mrs. Manisha Aeri**
+ Under the Guidance of **Mrs. Manisha Aeri**
 
 ---
 
