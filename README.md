@@ -356,7 +356,7 @@ This will print a public URL that can be shared with anyone to access the app re
 **Institution:** Graphic Era Hill University, Dehradun, Uttarakhand
 **Department:** Computer Science & Engineering (B.Tech)
 **Project Guide:** Mrs. Manisha Aeri
-**Academic Year:** 2024–25
+**Academic Year:** 2025-2026
 
 ---
 
