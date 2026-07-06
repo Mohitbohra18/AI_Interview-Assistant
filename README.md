@@ -3,6 +3,7 @@
 > **B.Tech Final Year Major Project**
 > Department of Computer Science & Engineering
 > Graphic Era Hill University, Dehradun
+> Built by Sanjana Saxena , Rudransh Mohan Srivastava and Mohit Bohra
  Under the Guidance of **Mrs. Manisha Aeri**
 
 ---
