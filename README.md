@@ -1,9 +1,9 @@
 #  AI Interview Coach
 
 > **B.Tech Final Year Major Project**
+> Built by Sanjana Saxena , Rudransh Mohan Srivastava and Mohit Bohra.
 > Department of Computer Science & Engineering
 > Graphic Era Hill University, Dehradun
-> Built by Sanjana Saxena , Rudransh Mohan Srivastava and Mohit Bohra
  Under the Guidance of **Mrs. Manisha Aeri**
 
 ---
